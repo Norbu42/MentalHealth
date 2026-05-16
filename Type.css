@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(205, 204, 206);
+    font-family: Helvetica;
+    font-size: 25px;
+    color: rgb(154, 63, 240);
+}
+
+h1{
+    color: rgb(135, 19, 243);
+    font-size: 60px;
+}
+h2{
+    color: rgb(135, 19, 243);
+    font-size: 50px;
+}
+h3{
+    color: rgb(135, 19, 243);
+    font-size: 50px;
+}
+h4{
+    color: rgb(135, 19, 243);
+    font-size: 50px;
+}
+h5{
+    color: rgb(135, 19, 243);
+    font-size: 50px;
+}
+h6{
+    color: rgb(135, 19, 243);
+    font-size: 50px;
+}
+p{
+    color: rgb(135, 19, 243);
+}
+ul{
+    font-size: 25px;
+}
+
+.block { 
+    display: square;
+    height: 20px;
+    background-color: rgb(193, 192, 194);
+    color: rgb(154, 63, 240);
+    font-size: 16px;
+    text-align: center;
+}
+
+input, textarea {
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 20px;
+    font-size: 18px;
+}
+
+.submit{
+    background-color: rgb(193, 192, 194);
+    color: rgb(154, 63, 240);
+}
